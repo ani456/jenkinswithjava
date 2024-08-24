@@ -4,6 +4,9 @@
 <p>this is me doing it manually first </p>
 <p>This is for testing purposes</p>
 
-<div><a href="about.jsp">About Us</a></div>
+<div style="margin:5px"><a href="about.jsp">About Us</a>
+<a href="services.jsp">Services</a>
+
+</div>
 </body>
 </html>
